@@ -12,3 +12,6 @@
   - RNNs (GRUs and BiLSTMs)
   - Transformers
   - Informer variants ( Informer along with Transformer and LSTMs)
+
+Link for full **raw NGSIM dataset**
+https://data.transportation.gov/stories/s/Next-Generation-Simulation-NGSIM-Open-Data/i5zb-xe34/
